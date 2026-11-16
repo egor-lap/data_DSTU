@@ -1,0 +1,8 @@
+{
+  "input_left_rows": 6830,
+  "input_right_rows": 469,
+  "result_rows": 6830,
+  "unmatched_count": 25,
+  "expected_validation": "many_to_one",
+  "note": "Учебная неполная копия справочника"
+}
